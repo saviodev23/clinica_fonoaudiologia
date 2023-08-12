@@ -1,3 +1,4 @@
 from django.shortcuts import render
 
-# Create your views here.
+def fazer_pagamento(request):
+    return render(request, 'assets/pagamento/pagamento.html')
