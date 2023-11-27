@@ -29,7 +29,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'consulta.apps.ConsultaConfig',
     'historico.apps.HistoricoConfig',
-    'pagamento.apps.PagamentoConfig',
     'bootstrap5'
 ]
 
